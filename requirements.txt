@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+torch
+scikit-learn
+xgboost
+shap
+matplotlib
+gdown
